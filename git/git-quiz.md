@@ -205,7 +205,6 @@ modified: beta-notes.js
   git reset --hard origin/myCurrentBranch
   ```
 - [x] ⠀
-
   ```bash
   git fetch --all
   git reset --hard origin/master
